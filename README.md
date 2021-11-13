@@ -22,9 +22,9 @@ From kerala , India.
 ➣𝑭𝒖𝒏 𝑭𝒂𝒄𝒕: Am a pirate 😄🤩🤩
 
 
-<p><a href="https://github.com/DevAXD/DevAXD"> <img src=https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=Interets" width="200"</a></p>
+<p><a href="https://github.com/DevAXD/DevAXD"> <img src=https://img.shields.io/badge/MY%20INTERESTS-blueviolet?style=for-the-badge&logo=Interets" width="200"</a></p>
 
-𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒔
+
 #Traveling #Investigation #Defence #computational fluid dynamics #advanced dynamics #machine learning #python #Ethical hacking 
 
 <!---
