@@ -21,13 +21,23 @@ From kerala , India.
 
 ➣𝑭𝒖𝒏 𝑭𝒂𝒄𝒕: Am a pirate 😄🤩🤩
 
+➣𝘾𝙤𝙙𝙚 𝙗𝙖𝙨𝙚 : python , c++, php,java script, html.
+
+
+
 
 <p><a href="https://github.com/DevAXD/DevAXD"> <img src=https://img.shields.io/badge/MY%20INTERESTS-bluegreen?style=for-the-badge&logo=Interets" width="200"</a></p>
 
-
-#Traveling #Investigation #Defence #computational fluid dynamics #advanced dynamics #machine learning #python #Ethical hacking 
-
-<!---
+    ✓ Traveling
+    ✓ Investigation
+    ✓ Designing and fabrication
+    ✓ stimulation and analysis
+    ✓ Defence
+    ✓ Computational fluid dynamics
+    ✓ Advanced dynamics
+    ✓ Machine learning
+    ✓ Ethical hacking 
+    
 DevAXD/DevAXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
