@@ -5,11 +5,27 @@
 
 
 
-- 👋 Hi, I’m @DevAXD
-- 👀 I’m interested in  ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+```
+my name is ADARSH K K
+From kerala , India.
+
+```
+
+
+
+➣ 𝑰 𝒂𝒎 𝒂 𝑪𝒐𝒍𝒍𝒆𝒈𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 : Mechanical Engineer 🙁 [B.TECH] but i love design and analysis, modification, coding,machine learning)
+
+➣ 𝑰’𝒎 𝒍𝒐𝒐𝒌𝒊𝒏𝒈 𝒕𝒐 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒆 𝒐𝒏 (GitHub)
+
+➣ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 :  English, Malayalam, Tamil, Hindi,sanskrit
+
+➣𝑭𝒖𝒏 𝑭𝒂𝒄𝒕: Am a pirate 😄🤩🤩
+
+
+<p><a href="https://github.com/DevAXD/DevAXD"> <img src=https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=Interets" width="200"</a></p>
+
+𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒔
+#Traveling #Investigation #Defence #computational fluid dynamics #advanced dynamics #machine learning #python #Ethical hacking 
 
 <!---
 DevAXD/DevAXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
