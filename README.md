@@ -37,7 +37,11 @@ From kerala , India.
     ✓ scrap artist
     ✓ cricketer [Opening Batsman / Wicket Keeper]
     ✓ (-------) Fill in the blanks   
-
+</a>
 ```
-  </a>
- 
+  
+<a href="https://github.com/DevAXD/DevAXD">
+<img src="https://img.shields.io/github/stars/DevAXD/DevAXDt" alt="followers">
+</a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hemantapkh.torrenthunt" alt="visitors" />
+</a>
