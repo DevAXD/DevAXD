@@ -1,9 +1,4 @@
-<p align="center">
-<a href="https://github.com/DevAXD/DevAXD">
-<img src="https://img.shields.io/github/stars/DevAXD/DevAXDt" alt="followers">
-</a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=DevAXD.DevAXD" alt="visitors" />
-</a>
+
 
 </p>
 <p align="center">
@@ -11,7 +6,15 @@
 </p>
 
 
-
+<p align="center">
+<a href="https://github.com/DevAXD/DevAXD">
+<img src="https://img.shields.io/github/stars/DevAXD/DevAXDt" alt="followers">
+</a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DevAXD.DevAXD" alt="visitors" />
+</a>
+<a href="https://t.me/slogan_98">
+<img src='https://img.shields.io/badge/Mad vocals-blue?style=for-the-badge&logo=telegram'>
+</a>
 
 ```
 my name is ADARSH K K
