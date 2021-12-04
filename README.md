@@ -13,33 +13,30 @@ From kerala , India.
 
 
 
-➣ <i>𝑰 𝒂𝒎 𝒂 𝑪𝒐𝒍𝒍𝒆𝒈𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 :<i> Mechanical Engineer 🙁 [B.TECH] but i love design and analysis, modification, coding,machine learning)</i> 
+➣ <i>𝑰 𝒂𝒎 𝒂 𝑪𝒐𝒍𝒍𝒆𝒈𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 :<i> Mechanical Engineer 🙁 [B.TECH] </i> 
 
 ➣  <i> 𝑰’𝒎 𝒍𝒐𝒐𝒌𝒊𝒏𝒈 𝒕𝒐 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒆 𝒐𝒏 (GitHub)</i> 
 
-➣<i>𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 :  English, Malayalam, Tamil, Hindi,sanskrit</i>
+➣<i>𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 :  English, Malayalam, Tamil, Hindi, sanskrit</i>
 
 ➣<i>𝑭𝒖𝒏 𝑭𝒂𝒄𝒕: Am a pirate 😄🤩🤩</i>
 
 ➣<i>𝘾𝙤𝙙𝙚 𝙗𝙖𝙨𝙚 : python , c++, php,java script, html.</i>
 
-
+➣<i>𝘼𝙢𝙗𝙞𝙩𝙞𝙤𝙣𝙨 : Love Live Alive Be Ever , Want To Live On After My Death 😊 </i>
+ 
 
 
 <p><a href="https://github.com/DevAXD/DevAXD"> <img src=https://img.shields.io/badge/MY%20INTERESTS-bluegreen?style=for-the-badge&logo=Interets" width="200"</a></p>
 
-  
+ ```bash
   <a>
-    ✓ Traveling
-    ✓ Investigation
-    ✓ Designing and fabrication
-    ✓ stimulation and analysis
-    ✓ Defence
-    ✓ Computational fluid dynamics
-    ✓ Advanced dynamics
-    ✓ Machine learning
-    ✓ Ethical hacking 
-    
+    ✓ Traveller
+    ✓ Writter 
+    ✓ Designer
+    ✓ scrap artist
+    ✓ cricketer [Opening Batsman / Wicket Keeper]
+    ✓ (-------) Fill in the blanks   
 </a>
-
+```
  
