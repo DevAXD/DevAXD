@@ -28,8 +28,8 @@ From kerala , India.
 
 
 <p><a href="https://github.com/DevAXD/DevAXD"> <img src=https://img.shields.io/badge/MY%20INTERESTS-bluegreen?style=for-the-badge&logo=Interets" width="200"</a></p>
-
- ```bash
+<a>
+ ```
   
     ✓ Traveller
     ✓ Writter 
@@ -39,4 +39,5 @@ From kerala , India.
     ✓ (-------) Fill in the blanks   
 
 ```
+  </a>
  
