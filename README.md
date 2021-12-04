@@ -1,10 +1,11 @@
+<p align="center">
 <a href="https://github.com/DevAXD/DevAXD">
 <img src="https://img.shields.io/github/stars/DevAXD/DevAXDt" alt="followers">
 </a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=DevAXD.DevAXD" alt="visitors" />
 </a>
 
-
+</p>
 <p align="center">
   <img src="https://telegra.ph/file/45cfad04895dd79d35acc.jpg" alt="Eva Maria Logo">
 </p>
