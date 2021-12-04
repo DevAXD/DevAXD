@@ -37,7 +37,7 @@ From kerala , India.
 
 ➣<i>𝑭𝒖𝒏 𝑭𝒂𝒄𝒕: Am a pirate 😄🤩🤩</i>
 
-➣<i>𝘾𝙤𝙙𝙚 𝙗𝙖𝙨𝙚 : python , c++, php,java script, html.</i>
+➣<i>𝘾𝙤𝙙𝙚 𝙗𝙖𝙨𝙚 : Python , C++,Java Script, Html ,Php </i>
 
 ➣<i>𝘼𝙢𝙗𝙞𝙩𝙞𝙤𝙣𝙨 : Love Live Alive Be Ever , Want To Live On After My Death 😊 </i>
  
