@@ -1,6 +1,6 @@
 
 
-</p>
+
 <p align="center">
   <img src="https://telegra.ph/file/45cfad04895dd79d35acc.jpg" alt="Eva Maria Logo">
 </p>
@@ -12,9 +12,14 @@
 </a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=DevAXD.DevAXD" alt="visitors" />
 </a>
+</P>
+
+<p align="center">
 <a href="https://t.me/slogan_98">
-<img src='https://img.shields.io/badge/Mad vocals-blue?style=for-the-badge&logo=telegram'>
+<img src='https://img.shields.io/badge/Subscribe-Active-blue?style=for-the-badge&logo=telegram'>
 </a>
+</p>
+
 
 ```
 my name is ADARSH K K
