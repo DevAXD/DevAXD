@@ -39,7 +39,7 @@ From kerala , India.
 
 ➣<i>𝘾𝙤𝙙𝙚 𝙗𝙖𝙨𝙚 : Python , C++,Java Script, Html ,PHP</i>
 
-➣<i>𝘼𝙢𝙗𝙞𝙩𝙞𝙤𝙣𝙨 : Love Live Alive Be Ever , Want To Live On After My Death 😊 </i>
+➣<i>𝘼𝙢𝙗𝙞𝙩𝙞𝙤𝙣𝙨 : Love Live Alive Be Ever , Want To Live Even After My Death 😊 </i>
  
 
 
