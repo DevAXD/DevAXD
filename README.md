@@ -7,8 +7,8 @@
 
 
 <p align="center">
-<a href="https://github.com/DevAXD/fiLTER/stargazers">
-<img src="https://img.shields.io/github/stars/DevAXD/DevAXDt" alt="followers">
+<a href="https://github.com/DevAXD/DevAXD/stargazers">
+<img src="https://img.shields.io/github/stars/DevAXD/DevAXD" alt="followers">
 </a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=DevAXD.DevAXD" alt="visitors" />
 </a>
