@@ -22,7 +22,7 @@
 
 
 ```
-my name is ADARSH K K
+my name is AXD
 From kerala , India.
 
 ```
@@ -51,7 +51,6 @@ From kerala , India.
     ✓ Writter 
     ✓ Designer
     ✓ scrap artist
-    ✓ cricketer [Opening Batsman / Wicket Keeper]
     ✓ (-------) Fill in the blanks   
 </a>
 ```
