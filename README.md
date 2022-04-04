@@ -22,7 +22,7 @@
 
 
 ```
-my name is AXD
+my name is AXDHU
 From kerala , India.
 
 ```
@@ -35,7 +35,7 @@ From kerala , India.
 
 ➣<i>𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 :  English, Malayalam, Tamil, Hindi, sanskrit</i>
 
-➣<i>𝑭𝒖𝒏 𝑭𝒂𝒄𝒕: Am a pirate 😄🤩🤩</i>
+➣<i>𝑭𝒖𝒏 𝑭𝒂𝒄𝒕: Am a pirate 😄🤩🤩(100+ Adapted private repos )</i>
 
 ➣<i>𝘾𝙤𝙙𝙚 𝙗𝙖𝙨𝙚 : Python , C++,Java Script, Html ,PHP</i>
 
