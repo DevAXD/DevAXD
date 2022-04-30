@@ -1,4 +1,12 @@
 
+I'm Lord SA contact me 
+I'm ready to collaborate with you but don't use my my bots repository
+[TG Contact]
+<p align="side">
+  <a href="https://t.me/lord1of5darkness9">
+    &nbsp;<img src="https://img.shields.io/badge/LORD-_SA-darkgreen?style=flat-curvesquare&logo=telegram" width="100" height="20">&nbsp;
+  </a>
+</p>
 
 
 <p align="center">
