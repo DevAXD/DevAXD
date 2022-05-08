@@ -67,5 +67,5 @@ From kerala , India.
 </a>
 ```
   
-
+[![DevAXD Contribution Graph](https://activity-graph.herokuapp.com/graph?username=DevAXD&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/DevAXD)
 
