@@ -22,13 +22,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DevAXD" alt="DevAXD" /></a> </p>
 
+<a href="https://github.com/DevAXD">
+    <p align="left">
+        <img height="175px" src="https://github-readme-stats.vercel.app/api?username=DevAXD&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true" /> 
+    </p>
+</a> 
 
 
 
 
 
 ```
-my name is AXDHU
+my name is DevAXD
 From kerala , India.
 
 ```
